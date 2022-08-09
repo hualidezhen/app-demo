@@ -1,0 +1,19 @@
+[
+    {
+      "id": "1",
+      "imgUrl": "https://fastly.jsdelivr.net/npm/@vant/assets/apple-1.jpeg"
+    },
+    {
+      "id": "2",
+      "imgUrl": "https://fastly.jsdelivr.net/npm/@vant/assets/apple-2.jpeg"
+    },
+    {
+      "id": "3",
+      "imgUrl": "https://fastly.jsdelivr.net/npm/@vant/assets/apple-3.jpeg"
+    },
+    {
+      "id": "4",
+      "imgUrl": "https://fastly.jsdelivr.net/npm/@vant/assets/apple-4.jpeg"
+    }
+  ]
+  

@@ -1,0 +1,23 @@
+{
+  "name": "init",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "mockjs": "^1.1.0",
+    "node": "^16.0.0",
+    "vant": "^3.5.2",
+    "vue": "^3.2.37",
+    "vue-router": "^4.1.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.1",
+    "sass": "^1.54.0",
+    "sass-loader": "^8.0.2",
+    "vite": "^3.0.1"
+  }
+}
